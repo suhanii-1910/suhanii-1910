@@ -14,7 +14,7 @@
 
 🎓 B.Tech Computer Science Student at **Symbiosis Institute of Technology, Pune**
 
-💻 Passionate about solving real-world problems through software.
+💻 Passionate about building scalable software and solving real-world problems through technology.
 
 🌱 Currently learning
 
@@ -81,41 +81,11 @@
 
 # 🚀 Featured Projects
 
-### 🚛 FleetIQ
-
-AI-powered fleet management platform for transportation businesses.
-
-**Features**
-
-- Profit Analytics
-- Fuel Tracking
-- Revenue Dashboard
-- Driver Performance
-- Customer Analytics
-
-Tech Stack
-
-Next.js • TypeScript • Node.js • Supabase
-
----
-
-### 🤖 AI Automation Projects
-
-Building intelligent workflows using
-
-- n8n
-- Make.com
-- Gemini AI
-- Google Sheets API
-- Gmail API
-
----
-
-### 💻 DSA Journey
-
-Daily LeetCode solutions implemented in C and Java while mastering problem solving.
-
----
+<p align="center">
+  <a href="https://github.com/suhanii-1910/FleetIQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhanii-1910&repo=FleetIQ&theme=tokyonight"/>
+  </a>
+</p>
 
 # 📚 Currently Learning
 
@@ -132,9 +102,7 @@ Daily LeetCode solutions implemented in C and Java while mastering problem solvi
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suhanii-1910&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanii-1910&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suhanii-1910&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -177,32 +145,24 @@ Daily LeetCode solutions implemented in C and Java while mastering problem solvi
 </p>
 
 ---
+## 🎯 2026 Goals
 
-# 🎯 2026 Goals
-
-✅ Solve 500+ LeetCode Problems
-
-✅ Build Full Stack Applications
-
-✅ Master Backend Development
-
-✅ Learn System Design
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Engineering Internship
-
+- 🚀 Solve 500+ LeetCode problems
+- 🚀 Build production-ready full stack applications
+- 🚀 Master backend development
+- 🚀 Contribute to open source
+- 🚀 Secure a Software Engineering Internship
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/suhanigarg670/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="suhanigarg5670@gmail.com">
+<a href="mailto:suhanigarg5670@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
